@@ -1,0 +1,17 @@
+.activee{
+   color: black;
+}
+
+.inactivee{
+   color: lightblue;
+}
+
+.decoration{
+    text-decoration: none;
+}
+
+.label{
+  display: block;
+  position: relative;
+  padding-bottom: 5px;
+}
